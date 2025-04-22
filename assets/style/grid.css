@@ -88,9 +88,6 @@
 
 @media (min-width: 1440px) {
 
-    .banner img:nth-child(1) {
-        width: 588px;
-    }
 
     .categorias {
         display: grid;

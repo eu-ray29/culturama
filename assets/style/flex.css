@@ -54,6 +54,7 @@
 
 .agenda__item {
     flex-grow: 1;
+    max-width: 400px;
 }
 
 /*rodape*/
